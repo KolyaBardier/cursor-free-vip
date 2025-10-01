@@ -100,7 +100,7 @@ yay -S cursor-free-vip-git
 ### **Windows**
 
 ```powershell
-irm https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/install.ps1 | iex
+irm https://raw.githubusercontent.com/KolyaBardier/cursor-free-vip/main/scripts/install.ps1 | iex
 ```
 
 </details>
